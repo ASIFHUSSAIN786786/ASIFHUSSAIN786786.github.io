@@ -1,0 +1,422 @@
+{
+  "name": "Asif Hussain",
+  "title": "Economics Researcher | Research Consultant | Data Analyst",
+  "email": "asifhussainuos786@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/asif-hussain-276600161",
+  "headline": "Economic research. Clear analysis. Useful insights.",
+  "introduction": "I support research consultancies, policy organisations and independent consultants with economic research, quantitative analysis and careful reviews of analytical reports.",
+  "bio": "I am an economics researcher based in Pakistan, with a BS in Economics from the University of Sargodha and an MPhil in Economics from Bahauddin Zakariya University. Since 2022, I have worked remotely as a Research Associate with ZAR Management Consultancies in Dubai, contributing to economic and financial research, quantitative data analysis, research reports and presentations. My interests include inclusive growth, economic development, financial research, business analytics and research methodology. I value accurate sources, transparent methods, careful interpretation, reproducibility where practical and clear communication.",
+  "core_tools": [
+    "Stata",
+    "Microsoft Excel"
+  ],
+  "working_tools": [
+    "Power BI",
+    "SQL",
+    "R",
+    "Python",
+    "SPSS"
+  ],
+  "services": [
+    {
+      "id": "economic-research",
+      "name": "Economic & Policy Research",
+      "summary": "Make an economic or policy question easier to investigate.",
+      "audience": "Research teams, think tanks, consultancies and development organisations.",
+      "problem": "You need a defensible evidence base rather than disconnected indicators.",
+      "activities": [
+        "Economic indicators and socioeconomic data",
+        "Literature reviews and research background reports",
+        "Policy evidence summaries and comparative country research",
+        "Development economics research"
+      ],
+      "deliverables": "Research report, data tables, chart appendix, source list and a summary of findings and limitations.",
+      "requirements": "Research question, geography, period, intended audience and permitted sources.",
+      "tools": "Stata · Excel · recognised statistical sources",
+      "limitations": "Evidence synthesis does not by itself establish causality."
+    },
+    {
+      "id": "statistical-analysis",
+      "name": "Statistical Analysis & Econometrics",
+      "summary": "Prepare data, apply suitable methods and interpret the result.",
+      "audience": "Researchers and organisations with an existing or planned dataset.",
+      "problem": "You need an appropriate analysis and an explanation of uncertainty.",
+      "activities": [
+        "Data cleaning, validation and descriptive statistics",
+        "Correlation, hypothesis testing and regression",
+        "Panel-data methods",
+        "Time-series analysis within demonstrated experience"
+      ],
+      "deliverables": "Documented dataset, statistical tables, interpretation and agreed code or cleaning log.",
+      "requirements": "Data, codebook, permissions, research question and expected output format.",
+      "tools": "Stata · Excel; R, SPSS or Python as appropriate",
+      "limitations": "Advanced or specialist modelling is accepted only after expertise and scope are confirmed. Statistical significance and causal conclusions are not guaranteed."
+    },
+    {
+      "id": "reporting",
+      "name": "Data Visualisation & Business Intelligence",
+      "summary": "Turn analytical work into reporting people can use.",
+      "audience": "Managers, research teams and consultants.",
+      "problem": "You need a clear presentation of your data that supports the intended decision.",
+      "activities": [
+        "Research tables, charts and statistical exhibits",
+        "Excel analysis and Power BI dashboards",
+        "KPI visualisation and executive reporting",
+        "Presentation-ready summaries"
+      ],
+      "deliverables": "Excel workbook, visual report, agreed dashboard, slide exhibits or documented dataset.",
+      "requirements": "Source data, KPI definitions, users, update needs and software and access requirements.",
+      "tools": "Excel · Power BI · SQL where appropriate",
+      "limitations": "Dashboard scope, refresh arrangements and software licensing must be agreed."
+    },
+    {
+      "id": "business-analysis",
+      "name": "Financial & Business Research",
+      "summary": "Bring structure to financial and business questions.",
+      "audience": "Consultants, businesses and research clients.",
+      "problem": "You need a careful comparison grounded in financial or market evidence.",
+      "activities": [
+        "Financial performance comparisons",
+        "Investment-related analytical research",
+        "Consumer research and business performance reviews",
+        "Strategy evidence summaries and management presentations"
+      ],
+      "deliverables": "Financial comparison, business report, source-backed briefing or management presentation.",
+      "requirements": "Statements or public sources, decision context, period and accounting definitions.",
+      "tools": "Excel · Stata · research sources",
+      "limitations": "Research support is not regulated financial advice. Investment performance is not guaranteed."
+    },
+    {
+      "id": "research-review",
+      "name": "Research Review & Methodology Assessment",
+      "summary": "Check whether the conclusions follow from the evidence.",
+      "audience": "Authors, research teams and organisations reviewing analytical documents.",
+      "problem": "You need a second reading of methods, interpretation and reporting.",
+      "activities": [
+        "Study structure and methodology review",
+        "Statistical interpretation and evidence-to-conclusion checks",
+        "Unsupported assumptions and uncertainty reporting",
+        "Tables, charts, narrative clarity and editing"
+      ],
+      "deliverables": "Annotated review, issue log, limitations summary and prioritised revision suggestions.",
+      "requirements": "Manuscript, supporting outputs, intended audience and review criteria.",
+      "tools": "Document review · statistical outputs · source checks",
+      "limitations": "Specialist medical, legal, engineering or cybersecurity verification may require a qualified domain expert. No formal journal appointment is implied."
+    },
+    {
+      "id": "ai-evaluation",
+      "name": "AI-Generated Research & Documentation Evaluation",
+      "summary": "Review AI-assisted analytical content against its evidence.",
+      "audience": "Research teams, content evaluators and organisations using AI-assisted reports.",
+      "problem": "A plausible narrative may contain unsupported claims or inconsistent numbers.",
+      "activities": [
+        "Evidence-to-claim auditing and numerical consistency checks",
+        "Research methodology and statistical interpretation review",
+        "Correlation-versus-causation checks",
+        "Reference checks and review of economic reports, decks and charts"
+      ],
+      "deliverables": "A table linking claims to supporting evidence, a numerical issue log and a report prioritising revisions.",
+      "requirements": "Document, cited sources, authorised access, evaluation rubric and permitted AI-use policy.",
+      "tools": "Source comparison · quantitative checks · document review",
+      "limitations": "This is an available service and an area of professional interest. No previous paid AI-lab employment, completed training contracts or universal hallucination-detection guarantee is claimed."
+    },
+    {
+      "id": "presentations",
+      "name": "Research Presentations & Executive Decks",
+      "summary": "Give the analysis a clear presentation structure.",
+      "audience": "Researchers, consultants and teams preparing briefings.",
+      "problem": "Technical content needs a clear sequence for its audience.",
+      "activities": [
+        "Research and economic briefing slides",
+        "Statistical and financial exhibits",
+        "Data-to-slide storytelling",
+        "PowerPoint editing, restructuring and technical simplification"
+      ],
+      "deliverables": "Agreed presentation deck, redesigned exhibits or an annotated slide structure.",
+      "requirements": "Verified source findings, current slides, audience, style requirements and deadline.",
+      "tools": "PowerPoint · Excel · agreed chart outputs",
+      "limitations": "Design support is scoped to demonstrated work. Coursework alone is not represented as expert-level slide-design experience."
+    }
+  ],
+  "south_asia": [
+    {
+      "country": "Pakistan",
+      "growth": 30.11,
+      "employment_2010": 21.895,
+      "employment_2024": 22.228
+    },
+    {
+      "country": "Bangladesh",
+      "growth": 105.72,
+      "employment_2010": 34.171,
+      "employment_2024": 37.374
+    },
+    {
+      "country": "India",
+      "growth": 91.62,
+      "employment_2010": 26.238,
+      "employment_2024": 31.09
+    }
+  ],
+  "retail": {
+    "records": 51290,
+    "sales": 12643525,
+    "profit": 1469035,
+    "ratio": 11.62,
+    "mean": 246.51,
+    "median": 85.0,
+    "discount": 14.29,
+    "period": "2011–2014",
+    "min_profit": -6599.98,
+    "max_profit": 8399.98,
+    "sales_skewness": 8.17
+  },
+  "trial_conditions": [
+    "One introductory trial per prospective client",
+    "Maximum of three hours of work",
+    "One clearly agreed deliverable",
+    "Public or authorised data only",
+    "Scope and delivery date confirmed beforehand",
+    "No payment or obligation to continue",
+    "Further work under a separate paid agreement"
+  ],
+  "trial_tasks": [
+    "A concise economic evidence brief",
+    "A small dataset-cleaning task",
+    "A chart improvement and interpretation",
+    "A short analytical-document review"
+  ],
+  "workflow": [
+    [
+      "Define",
+      "Understand the question, objectives, expected outputs and constraints."
+    ],
+    [
+      "Source",
+      "Review literature, metadata, datasets and source reliability."
+    ],
+    [
+      "Analyse",
+      "Prepare data, select suitable methods and document methodological decisions."
+    ],
+    [
+      "Validate",
+      "Check results, assumptions, limitations and consistency between evidence and conclusions."
+    ],
+    [
+      "Communicate",
+      "Deliver reports, tables, charts or presentations and revise within the agreed scope."
+    ]
+  ],
+  "faq": [
+    [
+      "Can you work with clients outside Pakistan?",
+      "Yes. I am based in Pakistan and available for remote collaboration with international clients. Communication arrangements and timelines are agreed before work begins."
+    ],
+    [
+      "What services can I request?",
+      "Economic and policy research, data preparation, statistical and econometric analysis, business and market analysis, and reports, dashboards and data visualisation. The scope depends on your question and available evidence."
+    ],
+    [
+      "How does the free trial work?",
+      "We agree on one small task, one deliverable and a delivery date before work starts. The trial is limited to three hours and one task per prospective client, followed by a short feedback discussion."
+    ],
+    [
+      "Is the trial completely free?",
+      "Yes. There is no payment or subscription obligation. The scope must be agreed in advance and use public or appropriately authorised data."
+    ],
+    [
+      "What happens after the trial?",
+      "We discuss your feedback. If you would like to continue, I prepare a paid proposal with agreed deliverables, fees, timing and revision terms. There is no obligation to proceed."
+    ],
+    [
+      "Which statistical and analytical tools do you use?",
+      "Stata and Microsoft Excel are my primary professional tools. I also have analytical experience or training in Power BI, SQL, R, Python and SPSS. Tools and specialist requirements are confirmed for each scope; training credentials are not presented as employment experience."
+    ],
+    [
+      "Can you analyse an existing dataset?",
+      "Yes, subject to a review of its structure, quality, variable definitions and your permission to use it. Suitable methods and limitations are discussed before analysis."
+    ],
+    [
+      "Can you help interpret statistical outputs?",
+      "Yes. I can explain descriptive summaries, statistical tests and model outputs in clear language. When the original dataset or scripts are unavailable, that limitation is explicitly disclosed."
+    ],
+    [
+      "Will I receive editable datasets, documents, dashboards, or code?",
+      "Editable outputs can be included when agreed. File formats, scripts, dashboard delivery and any software requirements are specified in the project scope."
+    ],
+    [
+      "How do you determine pricing and deadlines?",
+      "Pricing and timing depend on the objective, data condition, analytical complexity and deliverables. You receive an agreed scope and quote before paid work begins."
+    ],
+    [
+      "Can you handle confidential information?",
+      "Confidentiality and secure sharing arrangements can be agreed before work begins. Please do not send confidential or sensitive datasets through the initial enquiry form."
+    ],
+    [
+      "Can you support academic research?",
+      "Yes, through legitimate research assistance, transparent methodology and ethical research practices. This does not include fabricated data, invented citations, guaranteed academic results or undisclosed ghostwriting."
+    ],
+    [
+      "How is artificial intelligence used in your workflow?",
+      "AI tools may be used for suitable drafting or language-editing tasks where permitted. Any restrictions can be agreed before work begins. Research sources, findings, and calculations require human review."
+    ]
+  ],
+  "downloads": {
+    "cv": {
+      "path": "/downloads/asif-hussain-academic-cv.pdf",
+      "label": "Download Academic CV",
+      "source": "User-supplied academic CV; contains phone number and academic referee contact details.",
+      "public_approved": false
+    },
+    "south_asia": {
+      "path": "/downloads/asif-hussain-public-data-work-sample.pdf",
+      "label": "Download Public-Data Work Sample",
+      "source": "User-supplied public-data portfolio PDF, 14 October 2026.",
+      "public_approved": false
+    },
+    "retail": {
+      "path": "/downloads/asif-hussain-retail-analysis-sample.pdf",
+      "label": "Download Retail Analysis Sample",
+      "source": "User-supplied revised retail analysis PDF.",
+      "public_approved": false
+    },
+    "health": {
+      "path": "/downloads/asif-hussain-statistical-analysis-sample.pdf",
+      "label": "Download Statistical Analysis Sample",
+      "source": "User-supplied revised statistical analysis PDF.",
+      "public_approved": false
+    }
+  },
+  "south_asia_source": {
+    "retrieved": "14 October 2026",
+    "database_updated": "8 October 2026",
+    "reported_country_years": 45,
+    "reported_source_values": 135,
+    "indicators": [
+      "NY.GDP.PCAP.KD",
+      "SL.EMP.TOTL.SP.FE.ZS",
+      "SL.EMP.TOTL.SP.MA.ZS"
+    ],
+    "gender_gaps_2024": [
+      53.9,
+      40.2,
+      43.2
+    ]
+  },
+  "health": {
+    "observations": 1116,
+    "sample_profile": [
+      [
+        "Age",
+        "Mean 47.44 years; SD 17.03"
+      ],
+      [
+        "BMI",
+        "Mean 25.82 kg/m²; SD 4.79"
+      ],
+      [
+        "Cholesterol",
+        "Mean 216.10; SD 48.56; units not documented"
+      ],
+      [
+        "Female participants",
+        "552 / 1,116 (49.46%)"
+      ],
+      [
+        "Urban participants",
+        "674 / 1,116 (60.39%)"
+      ],
+      [
+        "Reported heart attack",
+        "62 / 1,116 (5.56%)"
+      ]
+    ],
+    "bmi_groups": [
+      {
+        "group": "Female",
+        "n": 552,
+        "mean": 26.002,
+        "sd": 5.42
+      },
+      {
+        "group": "Male",
+        "n": 564,
+        "mean": 25.637,
+        "sd": 4.078
+      }
+    ],
+    "bmi_difference": {
+      "estimate": 0.365,
+      "ci_low": -0.198,
+      "ci_high": 0.928,
+      "t": 1.273,
+      "df": 1114,
+      "p": 0.203
+    },
+    "regression": {
+      "complete_cases": 1077,
+      "f": 67.43,
+      "df_model": 4,
+      "df_residual": 1072,
+      "r_squared": 0.201,
+      "predictors": [
+        {
+          "name": "Age",
+          "coefficient": 1.207,
+          "ci_low": 1.052,
+          "ci_high": 1.363,
+          "p": "<0.001"
+        },
+        {
+          "name": "BMI",
+          "coefficient": 0.777,
+          "ci_low": 0.226,
+          "ci_high": 1.328,
+          "p": "0.006"
+        },
+        {
+          "name": "Vitamin C",
+          "coefficient": 0.252,
+          "ci_low": -4.646,
+          "ci_high": 5.149,
+          "p": "0.920"
+        },
+        {
+          "name": "Sex numeric code",
+          "coefficient": -5.725,
+          "ci_low": -11.047,
+          "ci_high": -0.402,
+          "p": "0.035"
+        }
+      ]
+    },
+    "comparisons": [
+      [
+        "BMI across education categories",
+        "ANOVA F(4, 949) = 11.68",
+        "<0.001",
+        "954"
+      ],
+      [
+        "BMI across self-rated health categories",
+        "ANOVA F(4, 1,109) = 5.26",
+        "<0.001",
+        "1,114"
+      ],
+      [
+        "Heart-attack history and sex",
+        "χ²(1) = 14.696",
+        "<0.001",
+        "1,116"
+      ],
+      [
+        "Heart-attack history and rural/urban location",
+        "χ²(1) = 0.149",
+        "0.700",
+        "Not specified in sample PDF"
+      ]
+    ]
+  },
+  "site_url": "https://asifhussain786786.github.io"
+}
