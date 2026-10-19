@@ -151,3 +151,5 @@ document.addEventListener('keydown', event => {
     if (more?.open) { more.open = false; more.querySelector('summary').focus(); }
   }
 });
+
+document.querySelector('[data-print]')?.addEventListener('click', () => window.print());
